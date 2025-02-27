@@ -1,0 +1,3 @@
+# ticket-app
+
+Ticket-App is a simple, PHP-based support ticket management system designed to help users submit, view, and manage support tickets efficiently. Built with PHP and MySQL, it demonstrates essential CRUD operations using PDO, featuring a clean and user-friendly interface. The application stores ticket details—such as title, description, status, and creation date—in a MySQL database, and displays them in chronological order, making it easy to track and prioritize issues. Ideal for learning how to build and deploy a basic support system, Ticket-App can serve as a foundation for more advanced ticket management solutions.
